@@ -1,2 +1,2 @@
 # Hello-Word
-primeiro repositorio para extudos e desenvolvimento
+Esse é o meu porjeto de escola de um catalogo de filmes, esta bem simples mas foi meu primeiro contato com php
